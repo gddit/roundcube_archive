@@ -19,7 +19,7 @@ Supports both classic and larry skins.
 Install
 -------
 
-To install, put the folder "de_dieploegers_archive" into the roundcube
+To install, put this into a folder named "de_dieploegers_archive" under the
 plugin directory and add "de_dieploegers_archive" to the array
 "$rcmail_config['plugins']" in main.inc.php
 
