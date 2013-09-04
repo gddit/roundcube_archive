@@ -1,6 +1,15 @@
 Extended archiving plugin for Roundcube
 =======================================
 
+Possible deprecation
+--------------------
+
+It seems, that roundcube is extending their included archive plugin with
+the functionality of this plugin (probably) in the next release.
+
+I will wait and see, if that extension meets my needs. If that is so, 
+this plugin will be deprecated.
+
 Introduction
 ------------
 
